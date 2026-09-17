@@ -38,6 +38,8 @@ The website showcases my skills, projects, and contact information with a clean 
 - GitHub Pages
   ## 📁 Project Structure
 
+'''text
+
 portfolio-task2/
 │
 ├── index.html
@@ -109,9 +111,6 @@ I am passionate about technology, data analytics, programming, and building prac
 
 [https://www.linkedin.com/in/divya-banuka-09b752422](https://www.linkedin.com/in/divya-banuka-09b752422)
 
-### 📧 Email
-
-[divyabanuka3@gmail.com](mailto:divyabanuka3@gmail.com)
 
 ## 🎯 Objective
 
