@@ -36,10 +36,8 @@ The website showcases my skills, projects, and contact information with a clean 
 - Git
 - GitHub
 - GitHub Pages
+  ## 📁 Project Structure
 
-## 📂 Project Structure
-
-```text
 portfolio-task2/
 │
 ├── index.html
@@ -83,7 +81,7 @@ An AI-based project designed to analyze news content and help identify potential
 
 ### 4. Object Detection & Tracking
 
-A computer vision project for detecting and tracking objects using Python and OpenCV.
+A computer vision project using Python and OpenCV for detecting and tracking objects.
 
 **Technologies:** Python, OpenCV, Computer Vision
 
@@ -94,25 +92,6 @@ The project is deployed using **GitHub Pages**.
 ### 🔗 Live Website
 
 [https://divyabanuka.github.io/portfolio-task2/](https://divyabanuka.github.io/portfolio-task2/)
-
-## 🎯 Objective
-
-The main objective of this project is to develop a professional, responsive portfolio website while gaining practical experience in modern CSS3 techniques, responsive layouts, and GitHub Pages deployment.
-
-## 📚 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Creating responsive layouts
-- Using CSS Grid
-- Using CSS Flexbox
-- Working with CSS Variables
-- Creating responsive media queries
-- Designing reusable components
-- Adding hover effects and transitions
-- Creating light and dark themes
-- Deploying websites using GitHub Pages
-- Managing projects using Git and GitHub
 
 ## 👩‍💻 Author
 
@@ -134,11 +113,29 @@ I am passionate about technology, data analytics, programming, and building prac
 
 [divyabanuka3@gmail.com](mailto:divyabanuka3@gmail.com)
 
+## 🎯 Objective
+
+The main objective of this project is to develop a professional and responsive portfolio website while gaining practical experience with modern CSS3 techniques and responsive web design.
+
+## 📚 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Creating responsive layouts
+- Using CSS Grid
+- Using CSS Flexbox
+- Working with CSS Variables
+- Creating responsive media queries
+- Adding hover effects and transitions
+- Creating light and dark themes
+- Deploying websites using GitHub Pages
+- Managing projects using Git and GitHub
+
 ## 📌 Project Status
 
 ✅ Completed  
 ✅ Responsive  
-✅ GitHub Pages Deployed
+✅ Deployed using GitHub Pages
 
 ---
 
