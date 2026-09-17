@@ -37,9 +37,11 @@ The website showcases my skills, projects, and contact information with a clean 
 - GitHub
 - GitHub Pages
 
-## 📁 Project Structure
+## 📂 Project Structure
 
+```text
 portfolio-task2/
+│
 ├── index.html
 ├── style.css
 └── README.md
