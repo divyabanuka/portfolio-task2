@@ -47,10 +47,12 @@ The website is designed with a modern **Purple & Lavender** theme and is optimiz
 
 ## 📂 Project Structure
 
-portfolio-task2
-index.html
-style.css
-README.md
+```text
+portfolio-task2/
+│
+├── index.html
+├── style.css
+└── README.md
 
 ## 📱 Responsive Design
 
